@@ -5,4 +5,8 @@ Microsoft Word is a word processing software developed by Microsoft. It was firs
 
 git rever comit 1
 This is comparision lecture
+
 main file
+
+This is stash lecture, change in file sample.txt
+

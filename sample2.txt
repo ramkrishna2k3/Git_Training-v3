@@ -1,2 +1,3 @@
 hii
 This is comparision lecture in sample2
+This is merge lecture with sample2
