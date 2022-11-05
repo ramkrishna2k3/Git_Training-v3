@@ -1,2 +1,3 @@
+This is SSH base connection...checking
 This is testfile
 Adding some text file after git pull
