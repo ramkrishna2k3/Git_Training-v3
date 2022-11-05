@@ -1,4 +1,4 @@
 This is SSH base connection...checked
 This is testfile
 Adding some text file after git pull
-Modifying from gui
+
